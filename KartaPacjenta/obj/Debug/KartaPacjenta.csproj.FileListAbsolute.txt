@@ -1,0 +1,10 @@
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\bin\Debug\KartaPacjenta.exe.config
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\bin\Debug\KartaPacjenta.exe
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\bin\Debug\KartaPacjenta.pdb
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.csprojResolveAssemblyReference.cache
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.Form1.resources
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.Properties.Resources.resources
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.csproj.GenerateResource.Cache
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.csproj.CoreCompileInputs.cache
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.exe
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.pdb
