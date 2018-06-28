@@ -106,7 +106,7 @@ namespace KartaPacjenta {
         }
 
         private void button1_Click(object sender, EventArgs e) {
-            string uri = "http://hapi.fhir.org/baseDstu3/Patient/_search?_count=100&birthdate=gt1925-01-01";
+            string uri = "http://hapi.fhir.org/baseDstu3/Patient/_search?_count=200&birthdate=gt1925-01-01";
 
             string imie = Regex.Replace(textBox1.Text, @"\s+", "");
             string nazwisko = Regex.Replace(textBox2.Text, @"\s+", "");

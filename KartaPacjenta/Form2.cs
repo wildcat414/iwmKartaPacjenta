@@ -110,5 +110,36 @@ namespace KartaPacjenta {
         private void button1_Click(object sender, EventArgs e) {
             this.Close();
         }
+
+        private void button2_Click(object sender, EventArgs e) {
+            listBox1.Items.Clear();
+            string miesiac = textBox1.Text.Trim();
+            string rok = textBox2.Text.Trim();
+            if (miesiac.Length == 0 || rok.Length == 0) {
+                foreach (ZasobMedyczny zas in listaZasobow) {
+                    listBox1.Items.Add(zas.id + " || " + zas.nazwa + " || " + zas.data);
+                }
+                MessageBox.Show("Należy określić miesiąc i rok.");
+                return;
+            }
+            if (miesiac.Length == 1)
+                miesiac = "0" + miesiac;
+            string data = "";
+            
+
+            foreach (ZasobMedyczny zas in listaZasobow) {
+                data = zas.data.Substring(0, 2) + zas.data.Substring(6, 4);
+                if(String.Compare(miesiac + rok, data) == 0) {
+                    listBox1.Items.Add(zas.id + " || " + zas.nazwa + " || " + zas.data);
+                }                
+            }
+
+            if(listBox1.Items.Count > 0) {
+                listBox1.SelectedIndex = 0;
+            }
+            else {
+                MessageBox.Show("Brak danych dla wybranego miesiąca. Zmień ustawienia filtrowania.");
+            }            
+        }
     }
 }
