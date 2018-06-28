@@ -8,3 +8,7 @@ E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.cs
 E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.csproj.CoreCompileInputs.cache
 E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.exe
 E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.pdb
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.Form2.resources
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\obj\Debug\KartaPacjenta.Form3.resources
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\bin\Debug\Newtonsoft.Json.dll
+E:\Projekty\Visual Studio\KartaPacjenta\KartaPacjenta\bin\Debug\Newtonsoft.Json.xml
